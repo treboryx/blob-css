@@ -1,0 +1,82 @@
+@charset "UTF-8";
+@font-face{
+  font-family:'BPreplay';
+  font-style:normal;
+  font-weight:400;
+  src:local('BPreplay'),url(http://brick.freetls.fastly.net/fonts/bpreplay/400.woff) format('woff')
+}
+@font-face{
+  font-family:'BPreplay';
+  font-style:normal;
+  font-weight:700;
+  src:local('BPreplay Bold'),url(http://brick.freetls.fastly.net/fonts/bpreplay/700.woff) format('woff')
+}
+
+/*———————————–———————————–
+  Overwrite Bootstrap
+———————————–———————————–*/
+
+body {
+  border-top: 5px solid #00D1B2;
+  font-family: "BPreplay", sans-serif;
+  font-size: 18px;
+}
+.btn-primary {
+  border-color: #00D1B2 !important;
+  background-color: #00D1B2 !important;
+}
+.btn-primary:hover {
+  background-color: #00D1B2 !important;
+}
+.hljs {
+  padding: 0;
+  background: transparent;
+}
+
+/*———————————–———————————–
+  Styles
+———————————–———————————–*/
+
+.main-padding {
+  padding-top: 100px;
+}
+main {
+  padding-bottom: 100px;
+}
+ul {
+  padding: 0;
+  list-style: none;
+}
+code {
+  padding: 0;
+  background-color: transparent;
+  color: #C4445B;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 700;
+}
+.space-lg {
+  margin-top: 35px;
+}
+.space-md {
+  margin-top: 25px;
+}
+.space-sm {
+  margin-top: 15px;
+}
+.title {
+  color: #00D1B2;
+  font-size: 45px;
+  font-weight: 700;
+}
+.lead {
+  font-size: 20px;
+}
+.table code {
+  color: #555;
+  font-size: 75%;
+}
+.table code strong {
+  color: #C4445B;
+}
