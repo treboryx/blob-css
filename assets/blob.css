@@ -1,98 +1,52 @@
-.blob{
-    background-position:center center;
-    background-repeat:no-repeat;
-    background-size:1em 1em;
-    display:inline-block;
-    height:1em;
-    margin:0 .05em 0 .1em;
-    vertical-align:-.1em;
-    width:1em
+.ab1nzyblob2{
+    background-image:url("https://cdn.discordapp.com/attachments/343666246555795458/515628555976179752/ab1nzyblob2.gif")
 }
-.blob-lg{
-    background-size:1.33em 1.33em;
-    height:1.33em;
-    margin:0 .0665em 0 .133em;
-    vertical-align:-.133em;
-    width:1.33em
-}
-.blob-2x{
-    background-size:2em 2em;
-    height:2em;
-    margin:0 .1em 0 .2em;
-    vertical-align:-.2em;
-    width:2em
-}
-.blob-3x{
-    background-size:3em 3em;
-    height:3em;
-    margin:0 .15em 0 .3em;
-    vertical-align:-.3em;
-    width:3em
-}
-.blob-4x{
-    background-size:4em 4em;
-    height:4em;
-    margin:0 .2em 0 .4em;
-    vertical-align:-.4em;
-    width:4em
-}
-.blob-5x{
-    background-size:5em 5em;
-    height:5em;
-    margin:0 .25em 0 .5em;
-    vertical-align:-.5em;
-    width:5em
-}
-/* START OF ANIMATED BLOBS */
-.ab1nzyblob2 {
-     background-image:url("https://cdn.discordapp.com/attachments/343666246555795458/515628555976179752/ab1nzyblob2.gif") 
-}
- .ablobangel{
+.ablobangel{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632568826069029/ablobangel.gif")
 }
-.ablobcatbongo{
+.ablobattention{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632575650463746/ablobattention.gif")
 }
-.ablobcatheart{
+.ablobattentionreverse{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632590355693568/ablobattentionreverse.gif")
 }
-.ablobcatknitsweats{
+.ablobaww{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632625969528853/ablobaww.gif")
 }
-.ablobcatneon{
+.ablobblewobble{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632625868734489/ablobblewobble.gif")
 }
-.ablobcatparhteyboys{
+.ablobbounce{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632681271427094/ablobbounce.gif")
 }
-.ablobcatpeek{
+.ablobcheer{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632689890721792/ablobcheer.gif")
 }
-.ablobcatrainbow{
+.ablobcouple{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632693338439690/ablobcouple.gif")
 }
-.ablobcatrave{
+.ablobcry{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632694135226400/ablobcry.gif")
 }
-.ablobcatreach{
+.ablobcouncil{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632694487416832/ablobcouncil.gif")
 }
-.ablobcatreachreverse{
+.ablobdancer{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632697377292294/ablobdancer.gif")
 }
-.ablobcatsipsweats{
+.ablobcolorshift{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632697779945473/ablobcolorshift.gif")
 }
-.ablobcatsleep{
+.ablobderpy{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632727979196427/ablobderpy.gif")
 }
-.ablobcatthirsty{
+.ablobderpyhappy{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632728570593282/ablobderpyhappy.gif")
 }
-.ablobcatwink{
+.ablobdevil{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632734597677085/ablobdevil.gif")
 }
-.ablobcatzombiepeek{
+.ablobheadshake{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515632760379932702/ablobheadshake.gif")
 }
 .ablobhearteyes{
@@ -380,7 +334,6 @@
 .awolfiriblob{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634114058125322/awolfiriblob.gif")
 }
-/* END OF ANIMATED BLOBS */
 .blob-default{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634052728881320/blob.png")
 }
@@ -444,7 +397,7 @@
 .blobbowing{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634277921062942/blobbowing.png")
 }
-.blobbowing{
+.blobbroken{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634283302354970/blobbroken.png")
 }
 .blobcamera{
@@ -606,9 +559,6 @@
 .blobidea{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634963480182795/blobidea.png")
 }
-.blobidea{
-    background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634963480182795/blobidea.png")
-}
 .blobimfine{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515634970115571712/blobimfine.png")
 }
@@ -743,9 +693,6 @@
 }
 .blobpolice{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515635329303052299/blobpolice.png")
-}
-.blobpolice{
-    background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515635337184411649/blobpolice.png")
 }
 .blobpoliceangry{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515635339835080704/blobpoliceangry.png")
@@ -1161,3 +1108,4 @@
 .googleturtle{
     background-image:url("https://cdn.discordapp.com/attachments/515632497694867456/515636994773221386/googleturtle.png")
 }
+ 

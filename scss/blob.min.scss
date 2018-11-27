@@ -1,0 +1,7 @@
+@import 'assets/blob-map';
+
+@each $name, $code in $blob-map {
+  .#{$name} {
+    background-image: url($code);
+  }
+}
