@@ -3,13 +3,13 @@
   font-family:'BPreplay';
   font-style:normal;
   font-weight:400;
-  src:local('BPreplay'),url(http://brick.freetls.fastly.net/fonts/bpreplay/400.woff) format('woff')
+  src:local('BPreplay'),url(https://brick.freetls.fastly.net/fonts/bpreplay/400.woff) format('woff')
 }
 @font-face{
   font-family:'BPreplay';
   font-style:normal;
   font-weight:700;
-  src:local('BPreplay Bold'),url(http://brick.freetls.fastly.net/fonts/bpreplay/700.woff) format('woff')
+  src:local('BPreplay Bold'),url(https://brick.freetls.fastly.net/fonts/bpreplay/700.woff) format('woff')
 }
 
 /*———————————–———————————–
